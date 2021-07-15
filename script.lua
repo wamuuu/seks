@@ -35,7 +35,7 @@ for i,v in pairs(keys) do
 		getgenv().executed = true
 		while true do
 			dfesp()
-			wait(1)
+			wait(10)
 		end
 	end
 end
