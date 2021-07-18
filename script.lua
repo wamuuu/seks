@@ -1,6 +1,6 @@
 local keys = {
 	'superded',
-	'gay12903'
+	'a'
 }
 -- functions
 local function cheat()
