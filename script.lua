@@ -1,6 +1,7 @@
 local keys = {
 	'superded',
 	'sverh_klevi_klich_Bs0JP8w2mDw5' -- danilgem228
+	'465456' -- DragonPlanRafer
 }
 -- functions
 local function cheat()
