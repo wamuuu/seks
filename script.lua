@@ -19,7 +19,7 @@ local function cheat()
 			TextLabel.BackgroundTransparency = 1
 			TextLabel.Font = 'Gotham'
 			TextLabel.Size = UDim2.new(1, 0, 1, 0)
-			TextLabel.Text = 'Fruit'
+			TextLabel.Text = parent.Parent
 			TextLabel.TextColor3 = Color3.new(255, 0, 0)
 			TextLabel.TextScaled = true
 		end)
